@@ -28,11 +28,11 @@ yo composewithpromptrequired
 Apache-2.0 © [Tony Hallett]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-openvsfolder.svg
-[npm-url]: https://npmjs.org/package/generator-openvsfolder
-[travis-image]: https://travis-ci.org/tonyhallett/generator-openvsfolder.svg?branch=master
-[travis-url]: https://travis-ci.org/tonyhallett/generator-openvsfolder
-[daviddm-image]: https://david-dm.org/tonyhallett/generator-openvsfolder.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/tonyhallett/generator-openvsfolder
-[coveralls-image]: https://coveralls.io/repos/tonyhallett/generator-openvsfolder/badge.svg
-[coveralls-url]: https://coveralls.io/r/tonyhallett/generator-openvsfolder
+[npm-image]: https://badge.fury.io/js/generator-composewithpromptrequired.svg
+[npm-url]: https://npmjs.org/package/generator-composewithpromptrequired
+[travis-image]: https://travis-ci.org/tonyhallett/generator-composewithpromptrequired.svg?branch=master
+[travis-url]: https://travis-ci.org/tonyhallett/generator-composewithpromptrequired
+[daviddm-image]: https://david-dm.org/tonyhallett/generator-composewithpromptrequired.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/tonyhallett/generator-composewithpromptrequired
+[coveralls-image]: https://coveralls.io/repos/tonyhallett/generator-composewithpromptrequired/badge.svg
+[coveralls-url]: https://coveralls.io/r/tonyhallett/generator-composewithpromptrequired
