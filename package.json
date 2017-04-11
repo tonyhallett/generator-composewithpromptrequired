@@ -1,0 +1,51 @@
+{
+  "name": "generator-composewithpromptrequired",
+  "version": "0.0.0",
+  "description": "using the required argument will composeWith, prompting for any missing required arguments of the composed",
+  "homepage": "",
+  "author": {
+    "name": "Tony Hallett",
+    "email": "tonyhallett74@gmail.com",
+    "url": "http://ctrlcsharpetc.blogspot.co.uk/"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "composer",
+    "yeoman-generator"
+  ],
+  "devDependencies": {
+    "yeoman-test": "^1.6.0",
+    "yeoman-assert": "^3.0.0",
+    "coveralls": "^2.12.0",
+    "nsp": "^2.6.3",
+    "eslint": "^3.18.0",
+    "eslint-config-xo-space": "^0.16.0",
+    "jest": "^19.0.2",
+    "jest-cli": "^19.0.1"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.0.0",
+    "chalk": "^1.1.3",
+    "yosay": "^2.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "prepublish": "nsp check",
+    "pretest": "eslint . --ignore-path .gitignore --fix",
+    "test": "jest"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "jest": true,
+      "node": true
+    }
+  },
+  "repository": "tonyhallett/generator-composewithpromptrequired",
+  "license": "Apache-2.0"
+}
