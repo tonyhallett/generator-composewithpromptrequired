@@ -2,7 +2,7 @@
 /* eslint no-unused-vars: ["error", { "varsIgnorePattern": "[iI]gnored" }] */
 /* eslint max-params: ["error", 5] */
 
-//back again
+
 var path = require('path');
 var helpers = require('yeoman-test');
 var Generator = require('yeoman-generator');
