@@ -2,7 +2,7 @@
   "name": "generator-composewithpromptrequired",
   "version": "0.0.0",
   "description": "using the required argument will composeWith, prompting for any missing required arguments of the composed",
-  "homepage": "",
+  "homepage": "https://github.com/tonyhallett/generator-composewithpromptrequired",
   "author": {
     "name": "Tony Hallett",
     "email": "tonyhallett74@gmail.com",
