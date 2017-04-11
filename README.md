@@ -1,4 +1,4 @@
-﻿# generator-openvsfolder [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+﻿# generator-composewithpromptrequired [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > using the required argument will composeWith, prompting for any missing required arguments of the composed
 
 ## Installation
