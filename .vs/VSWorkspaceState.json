@@ -3,13 +3,14 @@
     "",
     "\\generators",
     "\\generators\\app",
+    "\\generators\\appindex",
     "\\generators\\app\\helpers",
+    "\\generators\\app\\helpersjs",
     "\\modules_for_tests",
     "\\modules_for_tests\\dummyDerivedGenerator",
     "\\modules_for_tests\\jestExtensions",
-    "\\notRunTests",
-    "\\__tests__"
+    "\\notRunTests"
   ],
-  "SelectedNode": "\\__tests__\\app.js",
+  "SelectedNode": "\\modules_for_tests\\jestExtensions\\index.js",
   "PreviewInSolutionExplorer": false
 }

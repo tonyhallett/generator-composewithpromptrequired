@@ -6,7 +6,7 @@ module.exports = class extends baseGenerator {
     this.option('derivedOption', {default: 'derivedOption'});
   }
   initializing() {
-    this.initializingBase();
+    return this.initializingBase();
   }
 
   // Must have a run loop method or exception
